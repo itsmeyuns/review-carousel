@@ -41,25 +41,14 @@ Clone the repository, install the necessary dependencies, and start the developm
    npm install
    ```
 
-   Or if using Yarn:
-
-   ```bash
-   yarn install
-   ```
-
 ## Getting Started
 
 1. Run the application:
 
    ```bash
-   npm start
+   npm run dev
    ```
-
-   Or with Yarn:
-
-   ```bash
-   yarn start
-   ```
+`
 
 2. Open the application in a web browser:
 
